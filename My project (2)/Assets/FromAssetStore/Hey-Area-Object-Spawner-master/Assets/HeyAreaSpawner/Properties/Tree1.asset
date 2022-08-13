@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameObject: {fileID: 5313441422161950177, guid: f5463d002ed093c4aa2a4693f50b846c, type: 3}
   type: 0
-  count: 50
+  count: 30
   randomScale: {x: 0.7, y: 1.25}
   randomRotation: {x: -360, y: 360}
