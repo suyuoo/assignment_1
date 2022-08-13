@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapMagic", "MapMagic.csproj", "{025B77AC-59AA-18BB-F19F-24B1EC87FDCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Den.Tools", "Den.Tools.csproj", "{DE32D2E0-DFC6-5A7B-3AB4-C472E9DDCB25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Den.Tools.Editor", "Den.Tools.Editor.csproj", "{1594D434-551A-D41B-C20A-C755B2DC6BAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapMagic.Editor", "MapMagic.Editor.csproj", "{FACC701E-B23D-AD3B-AC72-528C310CC893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{80351938-A37C-F03F-AD7D-072AA384A0CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapMagic.Settings", "MapMagic.Settings.csproj", "{E25A2055-4F5B-07C8-27C2-630B712AAE04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{025B77AC-59AA-18BB-F19F-24B1EC87FDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025B77AC-59AA-18BB-F19F-24B1EC87FDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025B77AC-59AA-18BB-F19F-24B1EC87FDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025B77AC-59AA-18BB-F19F-24B1EC87FDCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE32D2E0-DFC6-5A7B-3AB4-C472E9DDCB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE32D2E0-DFC6-5A7B-3AB4-C472E9DDCB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE32D2E0-DFC6-5A7B-3AB4-C472E9DDCB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE32D2E0-DFC6-5A7B-3AB4-C472E9DDCB25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1594D434-551A-D41B-C20A-C755B2DC6BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1594D434-551A-D41B-C20A-C755B2DC6BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1594D434-551A-D41B-C20A-C755B2DC6BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1594D434-551A-D41B-C20A-C755B2DC6BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FACC701E-B23D-AD3B-AC72-528C310CC893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACC701E-B23D-AD3B-AC72-528C310CC893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACC701E-B23D-AD3B-AC72-528C310CC893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACC701E-B23D-AD3B-AC72-528C310CC893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80351938-A37C-F03F-AD7D-072AA384A0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80351938-A37C-F03F-AD7D-072AA384A0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80351938-A37C-F03F-AD7D-072AA384A0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80351938-A37C-F03F-AD7D-072AA384A0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E25A2055-4F5B-07C8-27C2-630B712AAE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E25A2055-4F5B-07C8-27C2-630B712AAE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E25A2055-4F5B-07C8-27C2-630B712AAE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E25A2055-4F5B-07C8-27C2-630B712AAE04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
