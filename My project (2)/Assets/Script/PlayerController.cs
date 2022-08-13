@@ -54,8 +54,10 @@ public class PlayerController : MonoBehaviour
         }
         var horizontal = Input.GetAxis("Horizontal");
         var vertical = Input.GetAxis("Vertical");
+
         var move = transform.forward * Speed * vertical * Time.deltaTime;
         controller.Move(move);
+
         Velocity.y += Gravity * Time.deltaTime;
         controller.Move(Velocity * Time.deltaTime);
 

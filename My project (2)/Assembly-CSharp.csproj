@@ -58,14 +58,17 @@
   <ItemGroup>
     <Compile Include="Assets\Script\RandomForestGenerator.cs" />
     <Compile Include="Assets\FromAssetStore\MapMagic\Compatibility\CTS\CTSOutput.cs" />
-    <Compile Include="Assets\FromAssetStore\MapMagic\Compatibility\RTP\RTPOutput.cs" />
-    <Compile Include="Assets\FromAssetStore\MapMagic\Compatibility\MegaSplat\MegaSplatOutput.cs" />
-    <Compile Include="Assets\Script\HeyArea.cs" />
     <Compile Include="Assets\Script\AreaSpawner.cs" />
     <Compile Include="Assets\Script\SpawnObjectProperty.cs" />
+    <Compile Include="Assets\FromAssetStore\MapMagic\Compatibility\RTP\RTPOutput.cs" />
+    <Compile Include="Assets\Script\HeyArea.cs" />
+    <Compile Include="Assets\FromAssetStore\MapMagic\Compatibility\MegaSplat\MegaSplatOutput.cs" />
+    <Compile Include="Assets\Script\PlayerController.cs" />
     <Compile Include="Assets\Script\AreaSpawner_Editor.cs" />
     <Compile Include="Assets\Script\NewBehaviourScript.cs" />
-    <Compile Include="Assets\Script\PlayerController.cs" />
+    <Compile Include="Assets\FromAssetStore\AQUAS-Lite\Scripts\AQUAS_Lite_Camera.cs" />
+    <Compile Include="Assets\FromAssetStore\AQUAS-Lite\Scripts\AQUAS_Lite_CamNav.cs" />
+    <Compile Include="Assets\FromAssetStore\AQUAS-Lite\Scripts\AQUAS_Lite_Reflection.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\FromAssetStore\TerrainSampleAssets\ThirdPartyNotices.txt" />
@@ -73,7 +76,10 @@
     <None Include="Assets\FromAssetStore\MapMagic\Demo\Compatibility\MicroSplat\MicroSplat_Base.shader" />
     <None Include="Assets\FromAssetStore\MapMagic\Demo\Compatibility\MegaSplat\MegaSplatShader.shader" />
     <None Include="Assets\Script\Utility\JahnstarTriangulator.dll" />
+    <None Include="Assets\FromAssetStore\AQUAS-Lite\Shaders\AQUAS-Lite_Frontface.shader" />
     <None Include="Assets\FromAssetStore\Hey-Area-Object-Spawner-master\ProjectSettings\ProjectVersion.txt" />
+    <None Include="Assets\FromAssetStore\AQUAS-Lite\Readme.txt" />
+    <None Include="Assets\FromAssetStore\AQUAS-Lite\Shaders\AQUAS-Lite_Backface.shader" />
     <None Include="Assets\FromAssetStore\MapMagic\Demo\Compatibility\MegaSplat\MegaSplatShader2.shader" />
     <None Include="Assets\FromAssetStore\MapMagic\Demo\Compatibility\MicroSplat\MicroSplat.shader" />
     <None Include="Assets\FromAssetStore\MapMagic\Readme.txt" />
